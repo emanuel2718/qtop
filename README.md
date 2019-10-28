@@ -5,8 +5,7 @@
 
 
 ## Screenshot:
-![qtopsc](https://user-images.githubusercontent.com/55965894/67647406-a4b6aa80-f908-11e9-9fb7-0c544c4de774.png)
-
+![qtopsc](https://user-images.githubusercontent.com/55965894/67647692-84d3b680-f909-11e9-84bb-d0bd4f1f0818.png)
 
 
 
