@@ -1,7 +1,9 @@
 # Quantum Top
 
 
-## Simple script to learn about making charts with ascii on the terminal for an ongoing idea
+	Simple script to learn about making charts with
+	ascii on the terminal for an ongoing idea.
+	
 
 
 ## Screenshot:
